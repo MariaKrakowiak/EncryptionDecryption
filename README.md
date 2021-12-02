@@ -10,3 +10,5 @@ Remember that in case of shift algorithm you need to encode only English letters
 
 To complete this stage, we recommend that you create a set of classes and interfaces for encryption and decryption algorithms.
 
+(description comes from https://www.jetbrains.com/academy/)
+
